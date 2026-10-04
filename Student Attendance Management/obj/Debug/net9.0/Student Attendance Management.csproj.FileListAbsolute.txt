@@ -1,0 +1,65 @@
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\bin\Debug\net9.0\appsettings.json
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\bin\Debug\net9.0\Student Attendance Management.staticwebassets.runtime.json
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\bin\Debug\net9.0\Student Attendance Management.staticwebassets.endpoints.json
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\bin\Debug\net9.0\Student Attendance Management.exe
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\bin\Debug\net9.0\Student Attendance Management.deps.json
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\bin\Debug\net9.0\Student Attendance Management.runtimeconfig.json
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\bin\Debug\net9.0\Student Attendance Management.dll
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\bin\Debug\net9.0\Student Attendance Management.pdb
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\bin\Debug\net9.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\bin\Debug\net9.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\bin\Debug\net9.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\bin\Debug\net9.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\bin\Debug\net9.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\bin\Debug\net9.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\bin\Debug\net9.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\bin\Debug\net9.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\bin\Debug\net9.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\bin\Debug\net9.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\bin\Debug\net9.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\bin\Debug\net9.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\obj\Debug\net9.0\Student Attendance Management.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\obj\Debug\net9.0\Student Attendance Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\obj\Debug\net9.0\Student Attendance Management.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\obj\Debug\net9.0\Student Attendance Management.AssemblyInfo.cs
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\obj\Debug\net9.0\Student Attendance Management.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\obj\Debug\net9.0\Student Attendance Management.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\obj\Debug\net9.0\Student Attendance Management.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\obj\Debug\net9.0\Student Attendance Management.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\obj\Debug\net9.0\scopedcss\bundle\Student Attendance Management.styles.css
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\obj\Debug\net9.0\compressed\o98u5ppq4a-nampsdwe32.gz
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\obj\Debug\net9.0\Student .3F481556.Up2Date
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\obj\Debug\net9.0\Student Attendance Management.dll
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\obj\Debug\net9.0\refint\Student Attendance Management.dll
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\obj\Debug\net9.0\Student Attendance Management.pdb
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\obj\Debug\net9.0\Student Attendance Management.genruntimeconfig.cache
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\obj\Debug\net9.0\ref\Student Attendance Management.dll

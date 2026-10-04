@@ -1,0 +1,49 @@
+@model List<Student_Attendance_Management.Models.Student>
+
+@{
+    ViewData["Title"] = "Students";
+}
+
+<h2>All Students</h2>
+
+<a asp-action="Create" class="btn btn-primary mb-3">Add New Student</a>
+
+@if (Model.Count == 0)
+{
+    <p>No students found. Click "Add New Student" to add one.</p>
+}
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Registration Number</th>
+            <th>Department</th>
+            <th>Attendance %</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Student s in Model)
+        {
+            <tr>
+                <td>@s.StudentId</td>
+                <td>@s.StudentName</td>
+                <td>@s.RegistrationNumber</td>
+                <td>@s.Department</td>
+                <td>@s.AttendancePercentage</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@s.StudentId" class="btn btn-warning btn-sm">Edit</a>
+
+                    <form asp-action="Delete" asp-route-id="@s.StudentId" method="post" style="display:inline;">
+                        <button type="submit" class="btn btn-danger btn-sm"
+                                onclick="return confirm('Delete this student?');">
+                            Delete
+                        </button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
