@@ -63,3 +63,4 @@ C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendan
 C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\obj\Debug\net9.0\Student Attendance Management.pdb
 C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\obj\Debug\net9.0\Student Attendance Management.genruntimeconfig.cache
 C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\obj\Debug\net9.0\ref\Student Attendance Management.dll
+C:\Users\User\Desktop\visual studio\StudentAttendanceManagement\Student Attendance Management\obj\Debug\net9.0\Student Attendance Management.sourcelink.json

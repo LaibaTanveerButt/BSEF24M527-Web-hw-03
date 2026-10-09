@@ -18,11 +18,9 @@ namespace Student_Attendance_Management.Models
 
             string query = "SELECT * FROM Students";
 
-            SqlConnection conn =
-                new SqlConnection(connectionString);
+            SqlConnection conn = new SqlConnection(connectionString);
 
-            SqlCommand selectCommand =
-                new SqlCommand(query, conn);
+            SqlCommand selectCommand = new SqlCommand(query, conn);
 
             da.SelectCommand = selectCommand;
 
@@ -103,46 +101,21 @@ namespace Student_Attendance_Management.Models
 
 
             // INSERT command
-            string query =
-                "INSERT INTO Students " +
-                "(StudentName, RegistrationNumber, Department, AttendancePercentage) " +
-                "VALUES (@sname, @regis, @depart, @attendance)";
+            string query = "INSERT INTO Students (StudentName, RegistrationNumber, Department, AttendancePercentage) VALUES (@sname, @regis, @depart, @attendance)";
 
-            SqlConnection conn =
-                new SqlConnection(connectionString);
+            SqlConnection conn = new SqlConnection(connectionString);
 
-            SqlCommand insertCommand =
-                new SqlCommand(query, conn);
+            SqlCommand insertCommand= new SqlCommand(query, conn);
 
 
             // Parameters
-            SqlParameter name =
-                new SqlParameter(
-                    "sname",
-                    SqlDbType.NVarChar,
-                    100,
-                    "StudentName");
+            SqlParameter name = new SqlParameter("sname",SqlDbType.NVarChar,100,"StudentName");
 
-            SqlParameter registration =
-                new SqlParameter(
-                    "regis",
-                    SqlDbType.NVarChar,
-                    30,
-                    "RegistrationNumber");
+            SqlParameter registration = new SqlParameter("regis",SqlDbType.NVarChar,30,"RegistrationNumber");
 
-            SqlParameter department =
-                new SqlParameter(
-                    "depart",
-                    SqlDbType.NVarChar,
-                    50,
-                    "Department");
+            SqlParameter department = new SqlParameter("depart",SqlDbType.NVarChar,50,"Department");
 
-            SqlParameter attendance =
-                new SqlParameter(
-                    "attendance",
-                    SqlDbType.Decimal,
-                    0,
-                    "AttendancePercentage");
+            SqlParameter attendance = new SqlParameter("attendance",SqlDbType.Decimal,0,"AttendancePercentage");
 
             attendance.Precision = 5;
             attendance.Scale = 2;
@@ -192,59 +165,26 @@ namespace Student_Attendance_Management.Models
 
 
             // UPDATE command
-            string query =
-                "UPDATE Students SET " +
-                "StudentName=@sname, " +
-                "RegistrationNumber=@regis, " +
-                "Department=@depart, " +
-                "AttendancePercentage=@attendance " +
-                "WHERE StudentId=@sid";
+            string query = "UPDATE Students SET StudentName=@sname,RegistrationNumber=@regis,Department=@depart,AttendancePercentage=@attendance WHERE StudentId=@sid";
 
-            SqlConnection conn =
-                new SqlConnection(connectionString);
+            SqlConnection conn = new SqlConnection(connectionString);
 
-            SqlCommand updateCommand =
-                new SqlCommand(query, conn);
+            SqlCommand updateCommand = new SqlCommand(query, conn);
 
 
             // Parameters
-            SqlParameter name =
-                new SqlParameter(
-                    "sname",
-                    SqlDbType.NVarChar,
-                    100,
-                    "StudentName");
+            SqlParameter name = new SqlParameter("sname",SqlDbType.NVarChar,100,"StudentName");
 
-            SqlParameter registration =
-                new SqlParameter(
-                    "regis",
-                    SqlDbType.NVarChar,
-                    30,
-                    "RegistrationNumber");
+            SqlParameter registration = new SqlParameter("regis",SqlDbType.NVarChar,30,"RegistrationNumber");
 
-            SqlParameter department =
-                new SqlParameter(
-                    "depart",
-                    SqlDbType.NVarChar,
-                    50,
-                    "Department");
+            SqlParameter department = new SqlParameter("depart",SqlDbType.NVarChar,50,"Department");
 
-            SqlParameter attendance =
-                new SqlParameter(
-                    "attendance",
-                    SqlDbType.Decimal,
-                    0,
-                    "AttendancePercentage");
+            SqlParameter attendance = new SqlParameter("attendance",SqlDbType.Decimal,0,"AttendancePercentage");
 
             attendance.Precision = 5;
             attendance.Scale = 2;
 
-            SqlParameter id =
-                new SqlParameter(
-                    "sid",
-                    SqlDbType.Int,
-                    0,
-                    "StudentId");
+            SqlParameter id = new SqlParameter("sid",SqlDbType.Int,0,"StudentId");
 
 
             updateCommand.Parameters.Add(name);
@@ -263,17 +203,13 @@ namespace Student_Attendance_Management.Models
 
             if (row != null)
             {
-                row["StudentName"] =
-                    student.StudentName;
+                row["StudentName"] = student.StudentName;
 
-                row["RegistrationNumber"] =
-                    student.RegistrationNumber;
+                row["RegistrationNumber"] = student.RegistrationNumber;
 
-                row["Department"] =
-                    student.Department;
+                row["Department"]  = student.Department;
 
-                row["AttendancePercentage"] =
-                    student.AttendancePercentage;
+                row["AttendancePercentage"] = student.AttendancePercentage;
             }
 
 
@@ -293,23 +229,14 @@ namespace Student_Attendance_Management.Models
 
 
             // DELETE command
-            string query =
-                "DELETE FROM Students " +
-                "WHERE StudentId=@sid";
+            string query = "DELETE FROM Students Where StudentId=@sid";
 
-            SqlConnection conn =
-                new SqlConnection(connectionString);
+            SqlConnection conn = new SqlConnection(connectionString);
 
-            SqlCommand deleteCommand =
-                new SqlCommand(query, conn);
+            SqlCommand deleteCommand = new SqlCommand(query, conn);
 
 
-            SqlParameter studentId =
-                new SqlParameter(
-                    "sid",
-                    SqlDbType.Int,
-                    0,
-                    "StudentId");
+            SqlParameter studentId = new SqlParameter("sid",SqlDbType.Int,0,"StudentId");
 
             deleteCommand.Parameters.Add(studentId);
 
